@@ -30,8 +30,8 @@ console.log("El valor de la variable num2 es: " + num2);    // en lenguajes mas 
 console.log("El resultado de la suma es: "+num1+num2); // Esto esta mal porque da como resultado la concatenacion 105.5
 console.log("El resultado de la suma es: "+(num1+num2)); // Ahora si está bien
 
-//Salida por alert();, herramientas que da el navegador, como alertas. Es mas orientado a que lo vea el usuario
-alert("El resultado de la suma es: "+(num1+num2));
+//Salida por alert();, herramientas que da el navegador, como alertas. Es mas orientado a que lo vea el usuario. Lo comento porque es molesto
+//alert("El resultado de la suma es: "+(num1+num2));
 
 //Salida por documento. document.write(); Se puede usar lineas de codigo html, se carga entre comillas dobles siempre.
 document.write("<h1>Hola mundo desde JavaScript!</h1>");
